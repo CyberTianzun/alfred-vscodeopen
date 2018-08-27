@@ -5,8 +5,6 @@
 * 启动 VS Code.
 * 打开 **VSCode命令行** (⇧⌘P)，然后输入 'shell command' 找到 **Shell Command: Install 'code' command in PATH** 这一项，回车.
 
-ref: https://code.visualstudio.com/docs/setup/mac
-
 ![](shell-command.png)
 
 ## Installation (Origin):
