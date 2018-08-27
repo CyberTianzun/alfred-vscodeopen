@@ -7,6 +7,8 @@
 
 ref: https://code.visualstudio.com/docs/setup/mac
 
+![](shell-command.png)
+
 ## Installation (Origin):
 
 * Launch VS Code.
